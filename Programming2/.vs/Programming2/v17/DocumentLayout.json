@@ -3,7 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}|a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9.vcxproj|C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}|a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9.vcxproj|solutionrelative:a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45FACBB8-A8D8-485A-9E3A-4611CB386624}|..\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130.vcxproj|C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}|a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\STDIO.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,13 +44,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AQIAAHQCAAAAAAAAAAAAAIUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-13T07:16:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2_main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
+              "RelativeDocumentMoniker": "a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
+              "RelativeToolTip": "a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-13T07:02:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
               "RelativeDocumentMoniker": "..\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
               "RelativeToolTip": "..\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-12T07:15:48.71Z",
               "EditorCaption": ""

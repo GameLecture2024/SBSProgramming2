@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a1_구조체와 포인터", "..\a1_구조체와 포인터\a1_구조체와 포인터.vcxproj", "{45FACBB8-A8D8-485A-9E3A-4611CB386624}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a2_메모리의 동적할당", "a2_메모리의 동적할당\a2_메모리의 동적할당.vcxproj", "{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{45FACBB8-A8D8-485A-9E3A-4611CB386624}.Release|x64.Build.0 = Release|x64
 		{45FACBB8-A8D8-485A-9E3A-4611CB386624}.Release|x86.ActiveCfg = Release|Win32
 		{45FACBB8-A8D8-485A-9E3A-4611CB386624}.Release|x86.Build.0 = Release|Win32
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Debug|x64.ActiveCfg = Debug|x64
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Debug|x64.Build.0 = Debug|x64
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Debug|x86.Build.0 = Debug|Win32
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Release|x64.ActiveCfg = Release|x64
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Release|x64.Build.0 = Release|x64
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Release|x86.ActiveCfg = Release|Win32
+		{7F06B907-E7E2-4713-A3D1-4C3E34D7BD4F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
