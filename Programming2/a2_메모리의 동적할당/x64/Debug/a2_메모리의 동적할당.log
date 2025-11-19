@@ -1,4 +1,4 @@
 ﻿  2_main.c
-C:\Users\Administrator\Desktop\SBSProgramming2\Programming2\a2_메모리의 동적할당\2_main.c(37,7): warning C4101: 'nameArray' :참조되지 않은 지역 변수입니다.
-C:\Users\Administrator\Desktop\SBSProgramming2\Programming2\a2_메모리의 동적할당\2_main.c(101,10): warning C4101: 's2' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\SBSProgramming2\Programming2\a2_메모리의 동적할당\2_main.c(47,7): warning C4101: 'nameArray' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\SBSProgramming2\Programming2\a2_메모리의 동적할당\2_main.c(111,10): warning C4101: 's2' :참조되지 않은 지역 변수입니다.
   a2_메모리의 동적할당.vcxproj -> C:\Users\Administrator\Desktop\SBSProgramming2\Programming2\x64\Debug\a2_메모리의 동적할당.exe
