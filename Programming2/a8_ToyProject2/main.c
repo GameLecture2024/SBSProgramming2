@@ -27,6 +27,22 @@ PlayerPos playerPos = { 0,0 }; // 전역변수의 플레이어의 위치를 공통으로 사용하겠
 PlayerPos ePos = { 5,5 };	 // 구조체의 이름을 COORD 공용적인 이름으로 바꾸면 좋다.
 PlayerPos ePos2 = { 5,10 };
 
+bool IsGameOver;
+
+// bool
+
+bool CollisionCheck(PlayerPos player, PlayerPos enemy)
+{
+	if (player.x == enemy.x && player.y == enemy.y)
+	{		
+		//_getch();
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
 
 // 외부에서 받아오는 코드 : 
 
@@ -84,6 +100,16 @@ void Update()
 	}
 	//ePos.y
 
+	// enemy와 플레이어가 충돌했는가?	
+	if (CollisionCheck(playerPos, ePos))
+	{
+		IsGameOver = true;
+	}
+	if (CollisionCheck(playerPos, ePos2))
+	{
+		IsGameOver = true;
+	}
+
 	Sleep(50);  
 }
 
@@ -103,13 +129,13 @@ void Render()
 bool Quit()
 {
 	// 게임이 종료될 조건을 Bool 반환하는 함수로 만들어서
-	int input = 0;
-	//scanf("%d", &input);
-	if (input == 5)	 // 조건이 만족하면 종료하라.
+
+	if (IsGameOver)	 // 조건이 만족하면 종료하라.
 	{		
 		return true;
 	}
-	else {
+	else 
+	{
 		return false;
 	}
 }
@@ -130,9 +156,9 @@ void Game()
 int main()
 {
 	// 화면을 2개 만들어 주세요
+	ScreenInit();
 	
 	GameTitle();    // Title.h -> GameTitle() -> Title.c 구현
-	ScreenInit();
 
 
 	while (1) // 게임 루프
