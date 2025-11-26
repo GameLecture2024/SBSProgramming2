@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}|a9.Test\\a9.Test.vcxproj|C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a9.Test\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}|a9.Test\\a9.Test.vcxproj|solutionrelative:a9.Test\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7D96178-D534-437B-9CB2-797624163014}|a8_ToyProject2\\a8_ToyProject2.vcxproj|C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D7D96178-D534-437B-9CB2-797624163014}|a8_ToyProject2\\a8_ToyProject2.vcxproj|solutionrelative:a8_ToyProject2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -72,7 +76,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,7 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a9.Test\\main.c",
+              "RelativeDocumentMoniker": "a9.Test\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a9.Test\\main.c",
+              "RelativeToolTip": "a9.Test\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-26T07:17:14.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Console.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\Console.c",
               "RelativeDocumentMoniker": "a8_ToyProject2\\Console.c",
@@ -104,12 +121,11 @@
               "RelativeToolTip": "a8_ToyProject2\\Console.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-21T07:25:52.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:25:52.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Console.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\Console.h",
               "RelativeDocumentMoniker": "a8_ToyProject2\\Console.h",
@@ -121,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Screen.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\Screen.c",
               "RelativeDocumentMoniker": "a8_ToyProject2\\Screen.c",
@@ -133,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Title.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\Title.c",
               "RelativeDocumentMoniker": "a8_ToyProject2\\Title.c",
@@ -141,12 +157,11 @@
               "RelativeToolTip": "a8_ToyProject2\\Title.c",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-21T07:11:50.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:11:50.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Title.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\Title.h",
               "RelativeDocumentMoniker": "a8_ToyProject2\\Title.h",
@@ -154,12 +169,11 @@
               "RelativeToolTip": "a8_ToyProject2\\Title.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-21T07:11:04.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:11:04.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a8_ToyProject2\\main.c",
               "RelativeDocumentMoniker": "a8_ToyProject2\\main.c",
@@ -172,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Monster.json",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\monster.json",
               "RelativeDocumentMoniker": "a7_\uD30C\uC77C \uC785\uCD9C\uB825\\monster.json",
@@ -184,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "parson.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\parson.c",
               "RelativeDocumentMoniker": "a7_\uD30C\uC77C \uC785\uCD9C\uB825\\parson.c",
@@ -196,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "7_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_main.c",
               "RelativeDocumentMoniker": "a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_main.c",
@@ -208,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "6_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_main.c",
               "RelativeDocumentMoniker": "a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_main.c",
@@ -220,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "5_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a5_\uC790\uAE30\uCC38\uC870\uAD6C\uC870\uCCB4\\5_main.c",
               "RelativeDocumentMoniker": "a5_\uC790\uAE30\uCC38\uC870\uAD6C\uC870\uCCB4\\5_main.c",
@@ -232,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "4_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a4_\uD568\uC218 \uD3EC\uC778\uD130\\4_main.c",
               "RelativeDocumentMoniker": "a4_\uD568\uC218 \uD3EC\uC778\uD130\\4_main.c",
@@ -244,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "3_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_main.c",
               "RelativeDocumentMoniker": "a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_main.c",
@@ -256,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -268,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "2_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
               "RelativeDocumentMoniker": "a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2_main.c",
@@ -280,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "1_main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
               "RelativeDocumentMoniker": "..\\a1_\uAD6C\uC870\uCCB4\uC640 \uD3EC\uC778\uD130\\1_main.c",
