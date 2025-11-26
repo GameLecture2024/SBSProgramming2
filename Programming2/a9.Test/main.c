@@ -1,5 +1,6 @@
+#include <stdio.h>
 
 int main()
 {
-	111111;
+	printf("Test 코드 실행!");
 }

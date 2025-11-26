@@ -106,7 +106,7 @@
               "RelativeDocumentMoniker": "a9.Test\\main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBSProgramming2\\Programming2\\a9.Test\\main.c",
               "RelativeToolTip": "a9.Test\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-26T07:17:14.015Z",
               "EditorCaption": ""
@@ -181,8 +181,7 @@
               "RelativeToolTip": "a8_ToyProject2\\main.c",
               "ViewState": "AQIAAGwAAAAAAAAAAAAAAHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-21T07:04:08.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:04:08.093Z"
             },
             {
               "$type": "Document",
