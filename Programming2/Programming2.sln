@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a8_ToyProject2", "a8_ToyPro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a9.Test", "a9.Test\a9.Test.vcxproj", "{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a10.JSON 활용하기", "a10.JSON 활용하기\a10.JSON 활용하기.vcxproj", "{93D743AB-243C-40E2-A020-85C821756C4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}.Release|x64.Build.0 = Release|x64
 		{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}.Release|x86.ActiveCfg = Release|Win32
 		{BD1E7A7C-A60C-4BC5-9532-C5E27C376F2E}.Release|x86.Build.0 = Release|Win32
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Debug|x64.ActiveCfg = Debug|x64
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Debug|x64.Build.0 = Debug|x64
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Debug|x86.Build.0 = Debug|Win32
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Release|x64.ActiveCfg = Release|x64
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Release|x64.Build.0 = Release|x64
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Release|x86.ActiveCfg = Release|Win32
+		{93D743AB-243C-40E2-A020-85C821756C4B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
