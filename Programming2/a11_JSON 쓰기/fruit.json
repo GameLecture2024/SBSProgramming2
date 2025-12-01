@@ -1,0 +1,8 @@
+{
+    "name": "apple",
+    "price": 10,
+    "skill": {
+        "name": "Thunder",
+        "pp": 5
+    }
+}
