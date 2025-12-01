@@ -152,9 +152,13 @@ void Game()
 // 2- 타이틀
 // 3- 상호작용 Interact
 
+#include "Skill.h"
 
 int main()
 {
+	ExecuteSampale();
+	_getch();
+
 	// 화면을 2개 만들어 주세요
 	ScreenInit();
 	
